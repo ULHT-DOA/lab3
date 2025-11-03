@@ -502,7 +502,7 @@ Implement the following sequence to demonstrate the system:
 **Scenario 5: Display All Orders**
 - Display summary of all orders
 
-### Task 4.2: Implement User Interaction (Optional Extension)
+### Task 4.2: Implement User Interaction 
 
 For students who complete the basic implementation early:
 
